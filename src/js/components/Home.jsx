@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const step1Array = ["Michael Scott", "Dwight Schrute", "Jim Halpert", "Pam Beesly", "Stanley Hudson"]; // The Office characters
+const step1Array = ["Michael Scott", "Dwight Schrute", "Jim Halpert", "Pam Beesly", "Stanley Hudson"]; 
 
 
 const step2Array = ["World's Best Boss Mug", "Bears, Beets, Battlestar Galactica", "Pranking Dwight", "Office Gossip", "Chili Disaster"];
@@ -18,12 +18,12 @@ const Home = () => {
 	return (
 		<div className="text-center">
             {/* Step 1: Mapping an array of names and rendering them as <h1> */}
+       
+
+			 {/* Step 2: Step2Component that takes a name as a prop */}
 
 
-			 {/* Step 2: Name Button that takes a name as a prop */}
-
-
-			 {/* Step 2: Name Button that takes a name as a prop */}
+			 {/* Step 3: Step3Component that takes object as prop */}
 
 
 
